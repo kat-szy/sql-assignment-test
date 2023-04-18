@@ -1,4 +1,5 @@
--- based on PostreSQL syntax
+-- based on PostgreSQL syntax
+-- you can find the result query at the bottom of this file
 ---------------------------------
 
 -- create tables
